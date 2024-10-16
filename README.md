@@ -27,6 +27,7 @@ En alternance chez Netceler, je travaille sur divers projets impliquant le déve
 
 Je travaille actuellement sur plusieurs projets que vous pouvez consulter sur mes [repositories GitHub](https://github.com/Tony-De-Donato).
 Vous pouvez également retrouver quelques projets sur lesquels j'ai travaillé dans les repositories GitHub de [ma coworker attitrée](https://github.com/mzribel) (elle adore le java).
+
 ---
 
 ## Stats
