@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-De-Donato&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-De-Donato&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tony-De-Donato&theme=dark&hide_border=true)
 <!--
 **Tony-De-Donato/Tony-De-Donato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
