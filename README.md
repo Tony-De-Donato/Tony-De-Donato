@@ -10,14 +10,14 @@
 
 Passionné par le développement informatique, je poursuis actuellement ma 3ème année de Bachelor à Ynov Campus Aix-en-Provence. J'acquiers de solides compétences en développement web, mobile et logiciel, avec un intérêt particulier pour les technologies innovantes et les architectures back-end.
 
-En alternance chez Netceler, je travaille sur divers projets impliquant le développement de solutions logiciel. Cette expérience en entreprise me permet d'améliorer mes compétences techniques tout en m'adaptant aux réalités du monde professionnel.
+En alternance dans l'entreprise Netceler, je travaille sur divers projets impliquant le développement de solutions logiciel. Cette expérience en entreprise me permet d'améliorer mes compétences techniques tout en m'adaptant aux réalités du monde professionnel.
 
 ---
 
 ## 🚀 Compétences Techniques
 
-- **Langages de programmation** : Python, PHP, Java, JavaScript, Go
-- **Développement Web** : HTML, (S)CSS, React, Node, Express, 
+- **Langages de programmation** : Python, PHP, Java, JavaScript
+- **Développement Web** : HTML, (S)CSS, React, Vue, Node 
 - **Bases de données** : MySQL, MongoDB, Postgresql
 - **Outils et Technologies** : Git, Docker, APIs REST
 
