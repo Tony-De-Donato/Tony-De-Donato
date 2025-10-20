@@ -1,4 +1,4 @@
-# 👋 Bien le bonjour, CavaOuKoi ?
+# 👋 Bien le bonjour
 
 
 🎓 **Étudiant en 3ème année de Bachelor Informatique** à Ynov Campus Aix-en-Provence  
