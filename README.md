@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
 Passionné par le développement informatique, je poursuis actuellement ma 3ème année de Bachelor à Ynov Campus Aix-en-Provence. J'acquiers de solides compétences en développement web, mobile et logiciel, avec un intérêt particulier pour les technologies innovantes et les architectures back-end.
 
@@ -14,7 +14,7 @@ En alternance dans l'entreprise Netceler, je travaille sur divers projets impliq
 
 ---
 
-## 🚀 Compétences Techniques
+## Compétences Techniques
 
 - **Langages de programmation** : Python, PHP, Java, JavaScript
 - **Développement Web** : HTML, (S)CSS, React, Vue, Node 
@@ -23,7 +23,7 @@ En alternance dans l'entreprise Netceler, je travaille sur divers projets impliq
 
 ---
 
-## 📈 Projets
+## Projets
 
 Je travaille actuellement sur plusieurs projets que vous pouvez consulter sur mes [repositories GitHub](https://github.com/Tony-De-Donato).
 Vous pouvez également retrouver quelques projets sur lesquels j'ai travaillé dans les repositories GitHub de [ma coworker attitrée](https://github.com/mzribel) (elle adore le java).
@@ -39,13 +39,13 @@ Vous pouvez également retrouver quelques projets sur lesquels j'ai travaillé d
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 
 Je suis constamment à la recherche de nouveaux défis et opportunités pour apprendre et m'améliorer. Mon objectif est de continuer à développer mes compétences en développement back-end tout en explorant les aspects plus avancés de l'architecture logicielle.
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - **Email** : tonydedo13@gmail.com
 
