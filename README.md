@@ -1,14 +1,14 @@
 # 👋 Bien le bonjour
 
 
-🎓 **Étudiant en 3ème année de Bachelor Informatique** à Ynov Campus Aix-en-Provence  
+🎓 **Étudiant en 1ère année de Mastère Dev FullStack** à Ynov Campus Aix-en-Provence  
 💻 **Alternant Développeur logiciel** chez [Netceler](https://www.netceler.com/) à Veynes, dans les Hautes-Alpes.
 
 ---
 
 ## À propos de moi
 
-Passionné par le développement informatique, je poursuis actuellement ma 3ème année de Bachelor à Ynov Campus Aix-en-Provence. J'acquiers de solides compétences en développement web, mobile et logiciel, avec un intérêt particulier pour les technologies innovantes et les architectures back-end.
+Passionné par le développement informatique, je poursuis actuellement mon mastère à Ynov Campus Aix-en-Provence. J'acquiers de solides compétences en développement web, mobile et logiciel, avec un intérêt particulier pour les technologies innovantes et les architectures back-end.
 
 En alternance dans l'entreprise Netceler, je travaille sur divers projets impliquant le développement de solutions logiciel. Cette expérience en entreprise me permet d'améliorer mes compétences techniques tout en m'adaptant aux réalités du monde professionnel.
 
